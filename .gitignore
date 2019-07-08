@@ -103,3 +103,8 @@ ENV/
 
 # training output
 models/
+my_chatbot/models/
+
+
+# IDE-specific
+.idea/
